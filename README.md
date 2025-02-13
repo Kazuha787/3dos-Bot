@@ -4,7 +4,7 @@ An automated bot for managing multiple 3DOS accounts with proxy support.
 
 ## 📢 Join Our Community
 
-# Telegram Channel: (https://t.me/Offical_Im_kazuha)
+# Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
 # GitHub Repository: [3dos-Bot](https://github.com/Kazuha787/3dos-Bot.git)
 
 ## ✨ Features
